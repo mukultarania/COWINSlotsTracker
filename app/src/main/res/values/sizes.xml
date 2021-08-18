@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_size" type="dimen">10dp</item>
+    <item name="sub_heading_text" type="dimen">20dp</item>
+    <item name="text_size" type="dimen">15dp</item>
+    <item name="data_size" type="dimen">20dp</item>
+    <item name="sub_sub_heading" type="dimen">20dp</item>
+    <item name="card_elev" type="dimen">10dp</item>
+
+    <item name="min_text" type="dimen">12dp</item>
+</resources>

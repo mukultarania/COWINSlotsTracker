@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">VST</string>
+    <string name="full_app_name">VACCINE SLOT TRACKER</string>
+
+    <!--    Activity-->
+    <string name="total_case">TOTAL CASES</string>
+    <string name="total_death">DEATHS</string>
+    <string name="total_recovery">RECOVERED</string>
+    <string name="world_stat">World Stats</string>
+    <string name="india_stat">India Stats</string>
+    <string name="type">TYPE</string>
+    <string name="not_found">No Slots Available OR Invalid PINCODE</string>
+    <string name="head_covid_ind">INDIA - Stats</string>
+
+    <!--    State-->
+    <string name="all_states">All States</string>
+    <string name="direction">DIRECTION</string>
+
+    <!--    District-->
+    <string name="search_by_dist">Search Slots by District</string>
+    <string name="dsp_id">DSP_ID</string>
+    <string name="by_dist">BY_DISTRICT</string>
+
+    <!--Date-->
+    <string name="date">DATE</string>
+    <string name="date_form">DD/MM/YYYY</string>
+
+    <!--    Pincode-->
+    <string name="search_by_pincode">Search Slots by Pincode</string>
+    <string name="by_pincode">BY_PINCODE</string>
+    <string name="pincode">PINCODE</string>
+
+<!--    Know Your APP-->
+    <string name="kwa">Know About Vaccine Slots Tracker</string>
+    <string name="mask">PLEASE REMEMBER TO WEAR YOUR MASK</string>
+    <string name="social_dist">PLEASE MAINTAIN SOCIAL DISTANCING</string>
+    <string name="info1">VACCINE SLOTS TACKER APP Developed by Hold Root.</string>
+    <string name="info2">APP that helps user to find vaccine slots at least number of steps.</string>
+    <string name="info3">The Vaccine helps to protect you and your family</string>
+</resources>
