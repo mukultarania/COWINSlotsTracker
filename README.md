@@ -1,48 +1,30 @@
-COWIN Slots Tracker
+# COWIN Slots Tracker
+
 An Android application designed to help users track available COVID-19 vaccination slots in India using the CoWIN public APIs.
 
-Features
-Search for available vaccination slots by PIN code or district.
+---
 
-Filter results based on age group (18+, 45+), vaccine type (Covishield, Covaxin, etc.), and dose number.
+## 🚀 Features
 
-Receive real-time notifications when slots become available.
+- Search for available vaccination slots by **PIN code** or **district**
+- Filter results by:
+  - Age group (18+, 45+)
+  - Vaccine type (Covishield, Covaxin, etc.)
+  - Dose number (Dose 1 / Dose 2)
+- Simple and clean UI for fast navigation
 
-User-friendly interface for easy navigation and slot booking.
+---
 
-Getting Started
-Prerequisites
-Android Studio installed on your development machine.
+## 🛠️ Getting Started
 
-An Android device or emulator running Android 5.0 (Lollipop) or higher.
+### ✅ Prerequisites
 
-Installation
-Clone the repository:
+- Android Studio installed
+- Android device or emulator with Android 5.0+ (Lollipop or higher)
 
-bash
-Copy
-Edit
+### ⚙️ Installation
+
+1. Clone the repository:
+
+```bash
 git clone https://github.com/mukultarania/COWINSlotsTracker.git
-
-2. Open the project in Android Studio.
-3. Build and run the app on your device or emulator.
-
-Usage
-Launch the app on your device.
-
-Enter your PIN code or select your district.
-
-Set your preferences (age group, vaccine type, dose number).
-
-Tap on "Search" to view available slots.
-
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgments
-CoWIN Public APIs for providing vaccination slot data.
-
-Open-source libraries and the Android developer community for support and resources.
