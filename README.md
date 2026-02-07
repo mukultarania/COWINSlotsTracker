@@ -28,3 +28,48 @@ An Android application designed to help users track available COVID-19 vaccinati
 
 ```bash
 git clone https://github.com/mukultarania/COWINSlotsTracker.git
+cd COWINSlotsTracker
+```
+
+2. Open the project in **Android Studio**.
+
+3. Sync Gradle dependencies.
+
+4. Run the app on an emulator or physical Android device.
+
+---
+
+## ✅ Basic Checks
+
+You can run unit tests from the command line:
+
+```bash
+./gradlew test
+```
+
+If `gradlew` is not executable on your system, run:
+
+```bash
+chmod +x gradlew
+./gradlew test
+```
+
+---
+
+## 📦 Tech Stack
+
+- Java
+- Android SDK
+- Gradle
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome. Please open an issue first for major changes.
+
+---
+
+## 📄 License
+
+This project is for educational and utility purposes.
